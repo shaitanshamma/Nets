@@ -1,2 +1,2 @@
 # Nets
-GB_newts 
+GB_nets 
